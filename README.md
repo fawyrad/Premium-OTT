@@ -6,7 +6,7 @@ Letih asyik kena block dengan Janda OTT? Letih layan premium OTT beli dari selle
 - Kalau tetiba takleh stream, maknanya account Astro dah kena blocked 🤪
 - Open new issues untuk lapor sekiranya link mpd bawah ni DOWN
 
-15 Astro hot channels (24 auto-renew token)
+15 Astro hot channels (24jam auto-renew token)
 
 ```
 http://d1eimxwxeji8bg.cloudfront.net/ria.mpd
