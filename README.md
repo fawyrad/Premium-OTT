@@ -3,7 +3,9 @@
 Letih asyik kena block dengan Janda OTT? Letih layan premium OTT beli dari seller tapi hot channels selalu down? Korang copy je link mpd bawah ni 👇
 
 - Guna selagi boleh
+- Link mpd Astro kena include clearkey dalam playlist korang since link adalah direct dari Astro Go bukan restream
 - Kalau tetiba takleh stream, maknanya account Astro dah kena blocked 👀
+- Sekiranya account Astro kena blocked, fix berlaku secara backend jadi link mpd bawah akan kekal sama
 - Open new issues untuk lapor sekiranya link mpd bawah ni DOWN
 
 15 Astro hot channels (24jam sentiasa ON)
