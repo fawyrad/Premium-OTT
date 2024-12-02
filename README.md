@@ -8,28 +8,34 @@ Letih asyik kena block dengan Janda OTT? Letih layan premium OTT beli dari selle
 - Sekiranya account Astro kena blocked, fix berlaku secara backend jadi link mpd bawah akan kekal sama
 - Open new issues untuk lapor sekiranya link mpd bawah ni DOWN
 
-15 Astro hot channels (24jam sentiasa ON)
+1. 14 Astro hot channels (24jam sentiasa ON)
 
 ```
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
-http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
-http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
-http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
-http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
-http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
-http://d1w72er2qn2fg9.cloudfront.net/aec.mpd
-http://d1w72er2qn2fg9.cloudfront.net/qj.mpd
-http://d1w72er2qn2fg9.cloudfront.net/aod.mpd
-http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
-http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
-http://d1w72er2qn2fg9.cloudfront.net/805.mpd
-http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
-http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
-http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
+http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
+http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
+http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
+http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
+http://d37lxn4ksn51zz.cloudfront.net/vin.mpd
+http://d37lxn4ksn51zz.cloudfront.net/thang.mpd
+http://d37lxn4ksn51zz.cloudfront.net/aec.mpd
+http://d37lxn4ksn51zz.cloudfront.net/qj.mpd
+http://d37lxn4ksn51zz.cloudfront.net/aod.mpd
+http://d37lxn4ksn51zz.cloudfront.net/bola1.mpd
+http://d37lxn4ksn51zz.cloudfront.net/bola2.mpd
+http://d37lxn4ksn51zz.cloudfront.net/grand.mpd
+http://d37lxn4ksn51zz.cloudfront.net/premier1.mpd
+http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
 ```
-2 MYTV Mana-Mana FHD channels (24jam sentiasa ON)
+2. Astro Sports UHD 805 (With audio for most Android boxes)
 
 ```
-http://d1w72er2qn2fg9.cloudfront.net/bernama.m3u8
-http://d1w72er2qn2fg9.cloudfront.net/dw.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
+https://linear16-playback.sooka.my/CH1/masterCH1.mpd
+```
+3. 2 MYTV Mana-Mana FHD channels (24jam sentiasa ON)
+
+```
+http://d37lxn4ksn51zz.cloudfront.net/bernama.m3u8
+http://d37lxn4ksn51zz.cloudfront.net/dw.m3u8
 ```
