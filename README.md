@@ -8,12 +8,11 @@ Letih asyik kena block dengan Janda OTT? Letih layan premium OTT beli dari selle
 - Sekiranya account Astro kena blocked, fix berlaku secara backend jadi link mpd bawah akan kekal sama
 - Open new issues untuk lapor sekiranya link mpd bawah ni DOWN
 
-1. 14 Astro hot channels (24jam sentiasa ON)
+1. 13 Astro hot channels (24jam sentiasa ON)
 
 ```
 http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
 http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
-http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
 http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
 http://d37lxn4ksn51zz.cloudfront.net/vin.mpd
 http://d37lxn4ksn51zz.cloudfront.net/thang.mpd
