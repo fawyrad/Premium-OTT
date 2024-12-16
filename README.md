@@ -11,19 +11,19 @@ Letih asyik kena block dengan Janda OTT? Letih layan premium OTT beli dari selle
 1. 13 Astro hot channels (24jam sentiasa ON)
 
 ```
-http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
-http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
-http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
-http://d37lxn4ksn51zz.cloudfront.net/vin.mpd
-http://d37lxn4ksn51zz.cloudfront.net/thang.mpd
-http://d37lxn4ksn51zz.cloudfront.net/aec.mpd
-http://d37lxn4ksn51zz.cloudfront.net/qj.mpd
-http://d37lxn4ksn51zz.cloudfront.net/aod.mpd
-http://d37lxn4ksn51zz.cloudfront.net/bola1.mpd
-http://d37lxn4ksn51zz.cloudfront.net/bola2.mpd
-http://d37lxn4ksn51zz.cloudfront.net/grand.mpd
-http://d37lxn4ksn51zz.cloudfront.net/premier1.mpd
-http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
+http://d14sysfrzu8fji.cloudfront.net/ria.mpd
+http://d14sysfrzu8fji.cloudfront.net/prima.mpd
+http://d14sysfrzu8fji.cloudfront.net/citra.mpd
+http://d14sysfrzu8fji.cloudfront.net/vin.mpd
+http://d14sysfrzu8fji.cloudfront.net/thang.mpd
+http://d14sysfrzu8fji.cloudfront.net/aec.mpd
+http://d14sysfrzu8fji.cloudfront.net/qj.mpd
+http://d14sysfrzu8fji.cloudfront.net/aod.mpd
+http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
+http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
+http://d14sysfrzu8fji.cloudfront.net/grand.mpd
+http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
+http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
 ```
 2. Astro Sports UHD 805 (With audio for most Android boxes)
 
@@ -35,6 +35,6 @@ https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 3. 2 MYTV Mana-Mana FHD channels (24jam sentiasa ON)
 
 ```
-http://d37lxn4ksn51zz.cloudfront.net/bernama.m3u8
-http://d37lxn4ksn51zz.cloudfront.net/dw.m3u8
+http://d14sysfrzu8fji.cloudfront.net/bernama.m3u8
+http://d14sysfrzu8fji.cloudfront.net/dw.m3u8
 ```
