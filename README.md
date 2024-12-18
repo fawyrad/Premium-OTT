@@ -38,7 +38,7 @@ https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 http://d14sysfrzu8fji.cloudfront.net/bernama.m3u8
 http://d14sysfrzu8fji.cloudfront.net/dw.m3u8
 ```
-Sementara, boleh guna MPD Sooka + Bearer. Guna link bawah untuk auto generate Sooka Bearer
+Sementara ini, boleh guna MPD Sooka + Bearer. Guna link di bawah untuk auto generate Sooka Bearer
 
 ```
 https://bosiptv.com/live/sp/id.php
