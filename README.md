@@ -11,19 +11,19 @@ Letih asyik kena block dengan Janda OTT? Letih layan premium OTT beli dari selle
 1. 13 Astro hot channels (24jam sentiasa ON)
 
 ```
-http://d14sysfrzu8fji.cloudfront.net/ria.mpd
-http://d14sysfrzu8fji.cloudfront.net/prima.mpd
-http://d14sysfrzu8fji.cloudfront.net/citra.mpd
-http://d14sysfrzu8fji.cloudfront.net/vin.mpd
-http://d14sysfrzu8fji.cloudfront.net/thang.mpd
-http://d14sysfrzu8fji.cloudfront.net/aec.mpd
-http://d14sysfrzu8fji.cloudfront.net/qj.mpd
-http://d14sysfrzu8fji.cloudfront.net/aod.mpd
-http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
-http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
-http://d14sysfrzu8fji.cloudfront.net/grand.mpd
-http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
-http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/thang.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/aec.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/qj.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/aod.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/grand.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier1.mpd
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier2.mpd
 ```
 2. Astro Sports UHD 805 (With audio for most Android boxes)
 
@@ -35,11 +35,6 @@ https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 3. 2 MYTV Mana-Mana FHD channels (24jam sentiasa ON)
 
 ```
-http://d14sysfrzu8fji.cloudfront.net/bernama.m3u8
-http://d14sysfrzu8fji.cloudfront.net/dw.m3u8
-```
-Sementara ini, boleh guna MPD Sooka + Bearer. Guna link di bawah untuk auto generate Sooka Bearer
-
-```
-https://bosiptv.com/live/sp/id.php
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bernama.m3u8
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/dw.m3u8
 ```
